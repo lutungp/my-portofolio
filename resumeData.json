@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Lintang Permana",
+    "occupation": "Head Instructor @CleverProgrammer",
+    "description": "Full Stack Developer dan condong dalam pengerjaan Back-end.",
+    "image": "me.jpg",
+    "bio": "Nama saya lintang, Saya seorang Web Programmer bahasa pemrograman yg saya gunakan lebih banyak dengan php dan javascript.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "lntngp19@gmail.com",
+    "phone": "+62 838 0838 7966",
+    "address": {
+      "street": "Pacarkembang Tambaksari",
+      "city": "Surabaya",
+      "state": "CA",
+      "zip": "90035"
+    },
+    "website": "",
+    "resumedownload": "http://127.0.0.1:3000/document/lintangPermana.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/lutungp/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lintang-permana-477948144",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/lutungp",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Skill yang saya miliki, dan beberapa upaya pengembangan skill saya yg mungkin dapat membantu anda",
+    "education": [
+      {
+        "school": "SMK PGRI 4 Surabaya",
+        "degree": "Teknik Audio Video",
+        "graduated": "2011",
+        "description": "Lulus dengan sukses"
+      }
+    ],
+    "work": [
+      {
+        "company": "TrustMedis",
+        "title": "PHP Web Programmer",
+        "years": "Okt 2016 - Januari 2019",
+        "description": "Pengembangan Sistem Informasi Rumah Sakit"
+      },
+      {
+        "company": "RS Haji Jakarta",
+        "title": "IT Staff",
+        "years": "Feb 2019 - Present",
+        "description": "IT Administrator dan pengembangan sistem berbasi web."
+      },
+      {
+        "company": "Darbe Group",
+        "title": "Web Programmer dan API service",
+        "years": "Jan 2020 - Present",
+        "description": "Programmer sitem POS dan API developer service untuk payment integrasi dengan mobile base."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "VueJs",
+        "level": "85%"
+      },
+      {
+        "name": "PHP",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "30%"
+      },
+      {
+        "name": "Flutter",
+        "level": "20%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Darbecafe",
+        "category": "PHP Codeigniter 2",
+        "image": "darbecafe.png",
+        "url": "https://www.instagram.com/darbe.cafe/?hl=id"
+      },
+      {
+        "title": "Darbechicken",
+        "category": "Vue JS Laravel API service",
+        "image": "darbechicken.png",
+        "url": "https://www.instagram.com/darbechicken/?hl=id"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
